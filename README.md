@@ -1,2 +1,21 @@
-# bilibili_codes
-上传到bilibili视频的源代码.
+# 这里是有关php学习资料的源代码和书籍,软件.
+
+
+
+- 我的主页:[https://space.bilibili.com/107261226](https://space.bilibili.com/107261226 "https://space.bilibili.com/107261226")
+
+
+- html5&css3视频教程地址：[https://www.bilibili.com/video/BV1Vrje6cEJz](https://www.bilibili.com/video/BV1Vrje6cEJz "https://www.bilibili.com/video/BV1Vrje6cEJz")
+
+
+- javascript视频教程：[https://www.bilibili.com/video/BV1Pyjq6dEGf](https://www.bilibili.com/video/BV1Pyjq6dEGf "https://www.bilibili.com/video/BV1Pyjq6dEGf")
+
+
+- javascript高级视频教程：[https://www.bilibili.com/video/BV1E5jq6jEtZ](https://www.bilibili.com/video/BV1E5jq6jEtZ "https://www.bilibili.com/video/BV1E5jq6jEtZ")
+
+
+- 源码：[https://github.com/phpseeker/bilibili_codes](https://github.com/phpseeker/bilibili_codes "https://github.com/phpseeker/bilibili_codes")
+
+
+
+
